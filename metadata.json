@@ -1,0 +1,5 @@
+{
+  "name": "Quantum Qubit Lab",
+  "description": "An interactive educational tool to visualize quantum superposition and measurement with probabilistic explanations, optimized for Vercel deployment.",
+  "requestFramePermissions": []
+}
